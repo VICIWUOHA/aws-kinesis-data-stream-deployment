@@ -13,7 +13,7 @@ AWS_DEFAULT_REGION = os.getenv("AWS_DEFAULT_REGION")
 AWS_SESSION_TOKEN = os.getenv("AWS_SESSION_TOKEN")
 
 # Replace 'stream_name' with the name of your Kinesis Data Stream created on AWS
-stream_name = "demo-stream-analytics-vic"
+stream_name = "stream-analytics-demo"
 
 # Create a Kinesis client
 kinesis_client = boto3.client("kinesis")
