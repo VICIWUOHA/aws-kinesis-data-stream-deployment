@@ -1,0 +1,17 @@
+{
+    "ShardId": "shardId-000000000000",
+    "SequenceNumber": "xxxxxxx951571002064058441568785123xxxx92734870xxxx82",
+    "ResponseMetadata": {
+        "RequestId": "cfbb5278-f8e5-957e-91e7-a055c5127337",
+        "HTTPStatusCode": 200,
+        "HTTPHeaders": {
+            "x-amzn-requestid": "xxx-f8e5-957e-91e7-xxxxxx",
+            "x-amz-id-2": "xxxxx+rOmoU+IAnxxxxxxxxxxXBWx9c2OHupl7Gi0CCJJu1mXmh1MkYajmt/o3CVTLdtCd7v+cxDuWsK0PQoT3CrlJBLnLblVRE8qn",
+            "date": "Sat, 02 Mar 2023 09:22:53 GMT",
+            "content-type": "application/x-amz-json-1.1",
+            "content-length": "110",
+            "connection": "keep-alive"
+        },
+        "RetryAttempts": 0
+    }
+}
